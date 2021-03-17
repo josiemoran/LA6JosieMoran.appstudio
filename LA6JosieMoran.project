@@ -43,8 +43,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "newControld",
-            "newControld.json"
+            "newControls",
+            "newControls.json"
           ]
         }
       ],

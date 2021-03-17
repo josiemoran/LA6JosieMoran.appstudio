@@ -9,7 +9,80 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "btnMult.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "btnAdd.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "Label2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "Label3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "btnClr.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "enterNum1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "enterNum2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "Label4.json"
+      ]
+    }
+  ],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
