@@ -1,17 +1,17 @@
-enterNum1.value = ""
-enterNum2.value = ""
-
-btnMult.onclick=function(){
-  let output1 = (num1 * num2)
-  Label2.value = (`${output1}`)
-}
-
 btnAdd.onclick=function(){
-  let output2 = (num1 + num2)
-  Label3.value = (`${output2}`)
+   lblResult.textContent = `The sum of ${inpNum1.value} and ${inpNum2.value} is ${Number(inpNum1.value)+Number(inpNum2.value)}`
+   inpNum1.value = ''
+   inpNum2.value = ''
 }
 
-btnClr.onclick=function(){
-  let output3 = (num1 - num2)
-  Label4.value = (`${output3}`)
+
+btnMultiply.onclick=function(){
+     lblResult.textContent = `The multiplication of ${inpNum1.value} and ${inpNum2.value} is ${Number(inpNum1.value)*Number(inpNum2.value)}`
+     enterNum1.value = ''
+     enterNum2.value = ''
+}
+btnClear.onclick=function(){
+  enterNum1.value = ''
+  enterNum2.value = ''
+  lblResult.textContent = ''
 }

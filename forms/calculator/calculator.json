@@ -16,7 +16,7 @@
         "forms",
         "calculator",
         "Elements",
-        "btnMult.json"
+        "btnMultiply.json"
       ]
     },
     {
@@ -34,7 +34,7 @@
         "forms",
         "calculator",
         "Elements",
-        "Label2.json"
+        "lblResult.json"
       ]
     },
     {
@@ -43,16 +43,7 @@
         "forms",
         "calculator",
         "Elements",
-        "Label3.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "calculator",
-        "Elements",
-        "btnClr.json"
+        "btnClear.json"
       ]
     },
     {
